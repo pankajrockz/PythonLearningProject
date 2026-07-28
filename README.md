@@ -8,12 +8,14 @@ Welcome to the **Python Learning Project** repository! This repository contains 
 
 Below is an overview of the key topics and module directories included in this project:
 
-* **`basics/`** — Python fundamentals, variables, basic data types, and operators.
-* **`control_statement/`** — Conditional branching (`if`, `elif`, `else`), loop controls (`for`, `while`), and break/continue flow.
+* **`datatypes/`** — Python fundamentals, variables, basic data types, and operators.
+* **`control_statements/`** — Conditional branching (`if`, `elif`, `else`), loop controls (`for`, `while`), and break/continue flow.
 * **`data_structures/`** — Core data collections including Lists, Tuples, Dictionaries, and Sets.
 * **`functions/`** — Modular code concepts, functions, parameters, return values, and variable scopes.
 * **`file_handling/`** — File reading, writing, appending, and context managers.
+* **`exception_handling/`** — Exception handling with try-except-else-finally and raising exceptions.
 * **`exercises/`** — Hands-on algorithmic problems and practice challenges.
+* **`test_files/`** — Files stored to work with the file handling and exercises.
 
 ---
 
