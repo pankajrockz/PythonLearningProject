@@ -1,7 +1,5 @@
 import copy
 
-
-
 #Shallow copy - duplicates the top-level structure of an object but shares references to any nested objects.
 l1 = [1, 2.5, [10,20,30]]
 l2 = copy.copy(l1)
