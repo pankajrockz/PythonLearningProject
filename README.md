@@ -15,6 +15,7 @@ Below is an overview of the key topics and module directories included in this p
 * **`file_handling/`** — File reading, writing, appending, and context managers.
 * **`exception_handling/`** — Exception handling with try-except-else-finally and raising exceptions.
 * **`exercises/`** — Hands-on algorithmic problems and practice challenges.
+* **`regular_expression/`** - Regular expressions and their functions.
 * **`test_files/`** — Files stored to work with the file handling and exercises.
 
 ---
@@ -41,7 +42,7 @@ python3 --version
    ```
 3. **Run a script:**
     ```bash
-   python control_statement/<script_name>.py
+   python <module_name>/<script_name>.py
    ```
 
 ## 📝 Learning Objectives
